@@ -19,9 +19,9 @@
 后端：https://github.com/hd-hdjej/book-mall-springcloud
 前端：https://github.com/hd-hdjej/book-mall-vue3-front
 
-- 🏯 **岭南园林数字化复原可视化系统（国赛项目）**
->面向古建筑数字化保护，基于Three.js实现东莞可园三维场景复原；完成建筑模型加载、场景漫游、视角控制；前端实现园林信息展示、建筑点位跳转交互；后端提供园林建筑、历史资料数据接口；项目参赛获得计算机设计大赛全国三等奖。
-https://github.com/hd-hdjej/ancient-architecture-visualization
+🏯 岭南园林 Web 三维可视化系统（国赛项目）
+面向古建筑数字化保护，基于 Three.js 实现东莞可园三维场景可视化展示；完成建筑模型加载、场景漫游、视角控制；前端实现园林信息展示、建筑点位跳转交互；后端提供园林建筑、历史资料数据接口；项目参赛获得计算机设计大赛全国三等奖。
+https://github.com/hd-hdjej/lingnan-garden-digital-restoration
 
 - 📖 **图书管理系统｜前后端分离**
 >简易图书借阅管理平台，后端SpringBoot+MyBatis‑Plus实现图书、用户、借阅记录CRUD；完成借阅、归还、逾期校验业务逻辑；Vue3实现图书列表、用户管理、借阅操作页面；做简单登录权限区分管理员与普通用户。
